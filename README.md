@@ -29,6 +29,29 @@ After completing the previous exercise, you may also implement one or both of th
  L = 2
  N = 1
  A = 1
+
+# How to use console
+ Run the console from the InputConsole.java;
  
- 
+ Then you have 2 choices and askes for your input:
+ ```
+1- Find Uppercase in text.
+2- Find Uppercase or Digit or Special character in text.
+Please enter function number:
+```
+Pick one and insert the text that you want to use and the N to get the characters;
+The final result should be something like the following:
+ ```
+ Please enter input text:
+ITCLiNicAl
+Please enter N number:
+1
+Result: ITCLNA
+I = 1
+T = 1
+C = 1
+L = 1
+N = 1
+A = 1
+```
 
